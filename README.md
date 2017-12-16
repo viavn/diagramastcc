@@ -1,5 +1,11 @@
-# Repositório de diagramas de classes e de casos de uso
+# Repositório Trabalho de Graduação do aluno Vinícius de Souza Avansini.
 
-Repositório onde será armazenado os diagramas de classes e de casos de uso do trabalho de graduação do aluno Vinícius de Souza Avansini, do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Americana.
+Este repositório tem a função de armazenar os diagramas para uma melhor visualização e para o compartilhamento das pessoas interessadas na consulta do trabalho.
 
-Para mais informações, envie um e-mail para avansini.vinicius@gmail.com com o assunto: "Dúvida diagramas TCC".
+## O que há neste repositório?
+
+Este repositório armazena todos os diagramas utilizados na documentação (Diagramas de classe e de casos de uso). Há também o Apêndice A, que será abordado a parte de criação, configuração e utilização dos serviços do Microsoft Azure, além da explicação da hospedagem da API e de alguns recursos do aplicativo, desenvolvido em Xamarin.Forms.
+
+## Para mais informações: 
+
+Envie um e-mail para avansini.vinicius@gmail.com com o assunto: "Dúvida TCC".
