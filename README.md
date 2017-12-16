@@ -1,6 +1,6 @@
 # Repositório Trabalho de Graduação do aluno Vinícius de Souza Avansini.
 
-Este repositório tem a função de armazenar os diagramas para uma melhor visualização e para o compartilhamento das pessoas interessadas na consulta do trabalho.
+Este repositório tem a função de um Apêndice disponível na web.
 
 ## O que há neste repositório?
 
