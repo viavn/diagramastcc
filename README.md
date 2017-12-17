@@ -4,7 +4,7 @@ Este repositório tem a função de um Apêndice disponível na web.
 
 ## O que há neste repositório?
 
-Este repositório armazena todos os diagramas utilizados na documentação (Diagramas de classe e de casos de uso). Há também o Apêndice A, que será abordado a parte de criação, configuração e utilização dos serviços do Microsoft Azure, além da explicação da hospedagem da API e de alguns recursos do aplicativo, desenvolvido em Xamarin.Forms.
+Este repositório armazena todos os diagramas utilizados na documentação (Diagramas de classe e de casos de uso). Há também o [Apêndice A](https://github.com/viavn/diagramastcc/wiki), que será abordado a parte de criação, configuração e utilização dos serviços do Microsoft Azure, além da explicação da hospedagem da API e de alguns recursos do aplicativo, desenvolvido em Xamarin.Forms.
 
 ## Para mais informações: 
 
